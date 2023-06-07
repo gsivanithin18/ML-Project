@@ -7,6 +7,8 @@ Heart disease is a leading cause of death in the United States. According to the
 
 ## Data Collection
 The data for this project was collected from the Cleveland Heart Disease dataset. This dataset contains 13 features, including age, sex, chest pain, blood pressure, cholesterol, and heart rate. The target variable is whether or not the patient has heart disease.
+The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
+There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
 ## Data Analysis
 The data was analyzed using the Python libraries Pandas, Numpy, and Matplotlib. The data was cleaned and preprocessed, and then the features were explored using visualizations.
