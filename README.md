@@ -14,7 +14,7 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/datase
 The data was analyzed using the Python libraries Pandas, Numpy, and Matplotlib. The data was cleaned and preprocessed, and then the features were explored using visualizations.
 
 ## Model Development
-A logistic regression model was developed using the Scikit-learn library. The model was trained on the training data, and then the performance was evaluated on the test data. The model achieved an accuracy of 88%.
+A logistic regression model was developed using the Scikit-learn library. The model was trained on the training data, and then the performance was evaluated on the test data. The model achieved an accuracy of 88%. Explored and experimented with different machine learning models, including KNN and Random Forest Classifier. Also utilized grid search and random search techniques to optimize the hyperparameters for each model.
 
 ## Conclusion
 The results of this project show that it is possible to develop a machine learning model that can predict the risk of heart disease with a high degree of accuracy. This model could be used to help people reduce their risk of heart disease by taking steps to improve their health.
