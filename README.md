@@ -6,8 +6,8 @@ This repository contains code for a machine learning model that predicts the ris
 Heart disease is a leading cause of death in the United States. According to the Centers for Disease Control and Prevention, heart disease caused 659,000 deaths in 2020. This project aims to develop a machine learning model that can predict the risk of heart disease, so that people can take steps to reduce their risk.
 
 ## Data Collection
-The data for this project was collected from the Cleveland Heart Disease dataset. This dataset contains 13 features, including age, sex, chest pain, blood pressure, cholesterol, and heart rate. The target variable is whether or not the patient has heart disease.\\
-The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease \\
+The data for this project was collected from the Cleveland Heart Disease dataset. This dataset contains 13 features, including age, sex, chest pain, blood pressure, cholesterol, and heart rate. The target variable is whether or not the patient has heart disease.\
+The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease \
 There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
 ## Data Analysis
